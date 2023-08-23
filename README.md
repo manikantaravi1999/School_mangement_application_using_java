@@ -64,4 +64,12 @@ a)STUDENT DASHBOARD
      --------------------
 ![STUDENTLOGIN](https://github.com/manikantaravi1999/School_mangement_application_using_java/assets/109761833/4ddc9114-4aaf-4f7b-957b-60e86bda9345)
 
+
+
+
+b) ADMIN DASHBOARD
+--------------------
+![ADMIN MODULE](https://github.com/manikantaravi1999/School_mangement_application_using_java/assets/109761833/06f325d8-2cc3-4241-80bd-f8ae234de8f7)
+
+
      
