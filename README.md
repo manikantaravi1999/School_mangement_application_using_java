@@ -72,4 +72,12 @@ b) ADMIN DASHBOARD
 ![ADMIN MODULE](https://github.com/manikantaravi1999/School_mangement_application_using_java/assets/109761833/06f325d8-2cc3-4241-80bd-f8ae234de8f7)
 
 
-     
+
+
+DATABASE TABLES
+----------------
+
+![sql TABLE1](https://github.com/manikantaravi1999/School_mangement_application_using_java/assets/109761833/563a4355-d055-4a3b-b021-6afaf126bea5)
+
+![SQLTABLE2](https://github.com/manikantaravi1999/School_mangement_application_using_java/assets/109761833/d4b47b55-ccac-4aee-abc5-65b26ce90426)
+![SQLTABLE3](https://github.com/manikantaravi1999/School_mangement_application_using_java/assets/109761833/d48996ee-52ab-4212-8be7-988bce909987)
